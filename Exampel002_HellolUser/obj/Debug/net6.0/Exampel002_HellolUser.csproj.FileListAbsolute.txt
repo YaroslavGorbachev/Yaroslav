@@ -1,0 +1,15 @@
+E:\Exampel\Exampel002_HellolUser\bin\Debug\net6.0\Exampel002_HellolUser.exe
+E:\Exampel\Exampel002_HellolUser\bin\Debug\net6.0\Exampel002_HellolUser.deps.json
+E:\Exampel\Exampel002_HellolUser\bin\Debug\net6.0\Exampel002_HellolUser.runtimeconfig.json
+E:\Exampel\Exampel002_HellolUser\bin\Debug\net6.0\Exampel002_HellolUser.dll
+E:\Exampel\Exampel002_HellolUser\bin\Debug\net6.0\Exampel002_HellolUser.pdb
+E:\Exampel\Exampel002_HellolUser\obj\Debug\net6.0\Exampel002_HellolUser.csproj.AssemblyReference.cache
+E:\Exampel\Exampel002_HellolUser\obj\Debug\net6.0\Exampel002_HellolUser.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exampel\Exampel002_HellolUser\obj\Debug\net6.0\Exampel002_HellolUser.AssemblyInfoInputs.cache
+E:\Exampel\Exampel002_HellolUser\obj\Debug\net6.0\Exampel002_HellolUser.AssemblyInfo.cs
+E:\Exampel\Exampel002_HellolUser\obj\Debug\net6.0\Exampel002_HellolUser.csproj.CoreCompileInputs.cache
+E:\Exampel\Exampel002_HellolUser\obj\Debug\net6.0\Exampel002_HellolUser.dll
+E:\Exampel\Exampel002_HellolUser\obj\Debug\net6.0\refint\Exampel002_HellolUser.dll
+E:\Exampel\Exampel002_HellolUser\obj\Debug\net6.0\Exampel002_HellolUser.pdb
+E:\Exampel\Exampel002_HellolUser\obj\Debug\net6.0\Exampel002_HellolUser.genruntimeconfig.cache
+E:\Exampel\Exampel002_HellolUser\obj\Debug\net6.0\ref\Exampel002_HellolUser.dll
