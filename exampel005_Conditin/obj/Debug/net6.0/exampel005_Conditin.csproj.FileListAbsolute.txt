@@ -1,0 +1,15 @@
+E:\Exampel\exampel005_Conditin\obj\Debug\net6.0\exampel005_Conditin.csproj.AssemblyReference.cache
+E:\Exampel\exampel005_Conditin\obj\Debug\net6.0\exampel005_Conditin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exampel\exampel005_Conditin\obj\Debug\net6.0\exampel005_Conditin.AssemblyInfoInputs.cache
+E:\Exampel\exampel005_Conditin\obj\Debug\net6.0\exampel005_Conditin.AssemblyInfo.cs
+E:\Exampel\exampel005_Conditin\obj\Debug\net6.0\exampel005_Conditin.csproj.CoreCompileInputs.cache
+E:\Exampel\exampel005_Conditin\bin\Debug\net6.0\exampel005_Conditin.exe
+E:\Exampel\exampel005_Conditin\bin\Debug\net6.0\exampel005_Conditin.deps.json
+E:\Exampel\exampel005_Conditin\bin\Debug\net6.0\exampel005_Conditin.runtimeconfig.json
+E:\Exampel\exampel005_Conditin\bin\Debug\net6.0\exampel005_Conditin.dll
+E:\Exampel\exampel005_Conditin\bin\Debug\net6.0\exampel005_Conditin.pdb
+E:\Exampel\exampel005_Conditin\obj\Debug\net6.0\exampel005_Conditin.dll
+E:\Exampel\exampel005_Conditin\obj\Debug\net6.0\refint\exampel005_Conditin.dll
+E:\Exampel\exampel005_Conditin\obj\Debug\net6.0\exampel005_Conditin.pdb
+E:\Exampel\exampel005_Conditin\obj\Debug\net6.0\exampel005_Conditin.genruntimeconfig.cache
+E:\Exampel\exampel005_Conditin\obj\Debug\net6.0\ref\exampel005_Conditin.dll
